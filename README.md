@@ -1,1 +1,1 @@
-Sliding image track
+Sliding image track.
