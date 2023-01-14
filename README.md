@@ -18,4 +18,4 @@ We welcome contributions to this project! If you have an idea for a new feature 
 5. Submit a pull request
 
 ### 🎉 Thank You
-Thanks for checking out our Sliding Animation Image Track! We hope you enjoy using it on your website. 🚀
+Thanks for checking out our Sliding Animation Image Track! We hope you enjoy using it. 🚀
