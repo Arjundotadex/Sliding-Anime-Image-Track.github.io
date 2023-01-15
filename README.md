@@ -13,7 +13,7 @@ We welcome contributions to this project! If you have an idea for a new feature 
 
 1. Fork this repository.
 2. Clone your forked copy of the project `git clone https://github.com/Arjundotadex/Sliding-Anime-Image-Track.github.io.git`
-3. Navigate to the project directory `cd BlogWeb`
+3. Navigate to the project directory `cd Sliding-Anime-Image-Track.github.io`
 4. Create a new branch `git checkout -b YourBranchName`
 5. Make changes in source code.
 6. Stage your changes `git add .` & commit your changes ` git commit -m "<your_commit_message>"`
