@@ -11,11 +11,14 @@ We welcome contributions to this project! If you have an idea for a new feature 
 
 ### To submit a pull request:
 
-1. Fork the repository
-2. Create a new branch for your feature or bug fix
-3. Make your changes
-4. Test your changes thoroughly
-5. Submit a pull request
+1. Fork this repository.
+2. Clone your forked copy of the project `git clone https://github.com/Sajiyah-Salat/BlogWeb.git`
+3. Navigate to the project directory `cd BlogWeb`
+4. Create a new branch `git checkout -b YourBranchName`
+5. Make changes in source code.
+6. Stage your changes `git add .` & commit your changes ` git commit -m "<your_commit_message>"`
+7. Push your local commits to the remote repo ` git push origin YourBranchName`
+8. Create a PR
 
 ### 🎉 Thank You
 Thanks for checking out our Sliding Animation Image Track! We hope you enjoy using it. 🚀
