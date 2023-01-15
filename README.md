@@ -12,7 +12,7 @@ We welcome contributions to this project! If you have an idea for a new feature 
 ### To submit a pull request:
 
 1. Fork this repository.
-2. Clone your forked copy of the project `git clone https://github.com/Sajiyah-Salat/BlogWeb.git`
+2. Clone your forked copy of the project `git clone https://github.com/Arjundotadex/Sliding-Anime-Image-Track.github.io.git`
 3. Navigate to the project directory `cd BlogWeb`
 4. Create a new branch `git checkout -b YourBranchName`
 5. Make changes in source code.
