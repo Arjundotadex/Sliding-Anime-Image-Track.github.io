@@ -1,5 +1,7 @@
 # 📷 Sliding Animation Image Track
 A simple yet elegant sliding animation image track built using HTML, CSS and JavaScript. 💻
+![image](https://user-images.githubusercontent.com/103199408/214841561-ac4f8d1f-fd8b-49ba-82a6-7debdbe74177.png)
+
 
 ## 🎨 Description
 The animation for the sliding image track is a simple yet elegant transition that showcases multiple images in a horizontal track. As the images slide from right to left, each image will smoothly transition into the next one, creating a seamless loop of all the images in the track. The speed of the animation and the duration of each image's display can be customized in the CSS file. The animation is built using JavaScript. 
